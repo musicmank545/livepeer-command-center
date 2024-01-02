@@ -12,7 +12,7 @@ The command center requires one open port for agent connections. You can also op
 
 You can run the command center from the binary as follows:
 
-./orch_cc -wssPort 10000 -wssHost <your-public-ip-address> -httpHost 127.0.0.1 -httpPort 100001 -password yourPassword
+./orch_cc -wssPort 10000 -wssHost <your-public-ip-address> -httpHost 127.0.0.1 -httpPort 10001 -password yourPassword
 
 
 Agent:
