@@ -29,4 +29,4 @@ You can run the command center from the binary as follows:
 ./orch_agent -serverAddr <ip-address-of-command-center> -cliAddr 127.0.0.1:7935 -password yourPassword -nodeID yourNodeID -nodeType orchestrator -configFile ./home/user/.lpData/livepeer.conf
 
 
-The commands provided above can also be used as the command argument when running the docker image. The image is available at lgdlivepool/livepeer_command_center:v0.1
+The commands provided above can also be used as the command argument when running the docker image. The image is available at lgdlivepool/livepeer_command_center:latest
